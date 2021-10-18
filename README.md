@@ -1,2 +1,2 @@
-# GRIP-Task-3
-GRIP | The Sparks Foundation Internship Program | Task 3 Web development
+GRIP-task-3
+About Payment Gateway Interaction | The Sparks Foundation Internship Program | Task 3 Web development ##To run the website disable Browsing Protection of Quickheal or any other Antivirus
